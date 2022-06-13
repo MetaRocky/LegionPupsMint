@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.dc77c7f3.chunk.css",
-    "main.js": "./static/js/main.b06832e3.chunk.js",
-    "main.js.map": "./static/js/main.b06832e3.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.2579cc4d.js",
-    "runtime-main.js.map": "./static/js/runtime-main.2579cc4d.js.map",
-    "static/css/2.e91b11d9.chunk.css": "./static/css/2.e91b11d9.chunk.css",
-    "static/js/2.081a5b0e.chunk.js": "./static/js/2.081a5b0e.chunk.js",
-    "static/js/2.081a5b0e.chunk.js.map": "./static/js/2.081a5b0e.chunk.js.map",
-    "static/js/3.b4027a70.chunk.js": "./static/js/3.b4027a70.chunk.js",
-    "static/js/3.b4027a70.chunk.js.map": "./static/js/3.b4027a70.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/2.e91b11d9.chunk.css.map": "./static/css/2.e91b11d9.chunk.css.map",
-    "static/css/main.dc77c7f3.chunk.css.map": "./static/css/main.dc77c7f3.chunk.css.map",
-    "static/js/2.081a5b0e.chunk.js.LICENSE.txt": "./static/js/2.081a5b0e.chunk.js.LICENSE.txt"
+    "main.css": "/LegionPupsMint/static/css/main.dc77c7f3.chunk.css",
+    "main.js": "/LegionPupsMint/static/js/main.dd64a3ed.chunk.js",
+    "main.js.map": "/LegionPupsMint/static/js/main.dd64a3ed.chunk.js.map",
+    "runtime-main.js": "/LegionPupsMint/static/js/runtime-main.6e935fa6.js",
+    "runtime-main.js.map": "/LegionPupsMint/static/js/runtime-main.6e935fa6.js.map",
+    "static/css/2.e91b11d9.chunk.css": "/LegionPupsMint/static/css/2.e91b11d9.chunk.css",
+    "static/js/2.b1c9097d.chunk.js": "/LegionPupsMint/static/js/2.b1c9097d.chunk.js",
+    "static/js/2.b1c9097d.chunk.js.map": "/LegionPupsMint/static/js/2.b1c9097d.chunk.js.map",
+    "static/js/3.b4027a70.chunk.js": "/LegionPupsMint/static/js/3.b4027a70.chunk.js",
+    "static/js/3.b4027a70.chunk.js.map": "/LegionPupsMint/static/js/3.b4027a70.chunk.js.map",
+    "index.html": "/LegionPupsMint/index.html",
+    "static/css/2.e91b11d9.chunk.css.map": "/LegionPupsMint/static/css/2.e91b11d9.chunk.css.map",
+    "static/css/main.dc77c7f3.chunk.css.map": "/LegionPupsMint/static/css/main.dc77c7f3.chunk.css.map",
+    "static/js/2.b1c9097d.chunk.js.LICENSE.txt": "/LegionPupsMint/static/js/2.b1c9097d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2579cc4d.js",
+    "static/js/runtime-main.6e935fa6.js",
     "static/css/2.e91b11d9.chunk.css",
-    "static/js/2.081a5b0e.chunk.js",
+    "static/js/2.b1c9097d.chunk.js",
     "static/css/main.dc77c7f3.chunk.css",
-    "static/js/main.b06832e3.chunk.js"
+    "static/js/main.dd64a3ed.chunk.js"
   ]
 }

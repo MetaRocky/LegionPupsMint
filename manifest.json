@@ -1,12 +1,11 @@
 {
-  "short_name": "Mint Page for Legion Pups",
-  "name": "Mint Page for Legion Pups",
+  "short_name": "Mint Page",
+  "name": "Mint Page",
   "icons": [
     {
       "src": "logo.png",
       "type": "image/png",
-      "sizes": "358x358",
-      "border-radius": "25px"
+      "sizes": "358x358"
     }
   ],
   "start_url": ".",
